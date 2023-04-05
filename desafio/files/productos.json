@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "fideos",
+    "descripcion": "dadwedw",
+    "precio": 450,
+    "thumbnail": "efdse",
+    "code": 3150,
+    "stock": 263,
+    "id": 1
+  },
+  {
+    "titulo": "arroz",
+    "descripcion": "dadwedw",
+    "precio": 500,
+    "thumbnail": "efdse",
+    "code": 3150,
+    "stock": 263,
+    "id": 2
+  },
+  {
+    "titulo": "papas",
+    "descripcion": "dadwedw",
+    "precio": 410,
+    "thumbnail": "efdse",
+    "code": 3150,
+    "stock": 263,
+    "id": 3
+  },
+  {
+    "titulo": "arina",
+    "descripcion": "dadwedw",
+    "precio": 800,
+    "thumbnail": "efdse",
+    "code": 3150,
+    "stock": 263,
+    "id": 4
+  },
+  {
+    "titulo": "fideos",
+    "descripcion": "dadwedw",
+    "precio": 70,
+    "thumbnail": "efdse",
+    "code": 3150,
+    "stock": 263,
+    "id": 5
+  }
+]
